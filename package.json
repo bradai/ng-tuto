@@ -1,0 +1,22 @@
+{
+  "name": "ng-tuto",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bradai@github.com/bradai/ng-tuto.git"
+  },
+  "author": "Bradai",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bradai/ng-tuto/issues"
+  },
+  "dependencies": {
+    "http-server": "~0.8.0",
+    "bower": "~1.4.1"
+  }
+}
