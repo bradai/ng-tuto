@@ -35,3 +35,11 @@ now you can add your library like (angular / jquery / bootstrap / ...)
 sudo bower install angular
 sudo bower install bootstrap
 ```
+
+
+"scripts": {
+    "postinstall": "bower install",
+    "prestart": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 8888 -c-1"
+  }
