@@ -36,7 +36,7 @@ sudo bower install angular
 sudo bower install bootstrap
 ```
 
-
+// package.json
 "scripts": {
     "postinstall": "bower install",
     "prestart": "npm install",
